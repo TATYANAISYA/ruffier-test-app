@@ -1,1 +1,2 @@
-# ruffier-test-app
+# ruffier-test-app 
+Ruffier test adalah test sederhana yang digunakan untuk menilai kebugaran jantung terhadap aktivitas fisik ringan maupun berat. Uji ini melibatkan pengukuran denyut nadi sebelum dan sesudah melakukan serangkaian gerakan (biasanya 30 squat dalam 45 detik). Hasilnya digunakan untuk menghitung indeks Ruffier, yang memberikan indikasi tentang kemampuan tubuh untuk pulih setelah aktivitas fisik. 
